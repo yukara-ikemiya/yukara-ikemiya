@@ -23,5 +23,3 @@ Hi, I'm **Yukara Ikemiya** -- a pasionate researcher, developer and beer lover.
 ![Yukara's GitHub Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
-
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
