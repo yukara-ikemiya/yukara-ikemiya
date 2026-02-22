@@ -17,6 +17,11 @@ Hi, I'm **Yukara Ikemiya** -- a pasionate researcher, developer and beer lover.
 - Audio technologies
 
 ## 📊 Stats
-[![Yukara's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukara-ikemiya&show_icons=true&theme=radical)](https://github.com/yukara-ikemiya)
+<!-- [![Yukara's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukara-ikemiya&show_icons=true&theme=radical)](https://github.com/yukara-ikemiya)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukara-ikemiya&layout=compact&exclude_repo=hugo-test,arayuru-genjitu-blog)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukara-ikemiya&layout=compact&exclude_repo=hugo-test,arayuru-genjitu-blog) -->
+![Yukara's GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
